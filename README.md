@@ -1,4 +1,4 @@
-🔗Link to deployed proj :meddetect-frontend.vercel.app
+🔗Link to deployed proj :https://meddetect-frontend.vercel.app/
 
 
 
