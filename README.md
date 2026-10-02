@@ -1,4 +1,9 @@
 🔗Link to deployed proj :meddetect-frontend.vercel.app
+
+
+
+
+
 🔗Link to demonstration data :https://drive.google.com/drive/folders/1Ku77whJZMizij7lQlbQ9TjgsaDR9Yrbl?usp=sharing   
 
 
