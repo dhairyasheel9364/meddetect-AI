@@ -4,8 +4,8 @@
 
 
 
-🔗Link to demonstration data :https://drive.google.com/drive/folders/1Ku77whJZMizij7lQlbQ9TjgsaDR9Yrbl?usp=sharing   
-
+🔗Link to portfolio :https://dhairyasheelwangdareport1409.netlify.app/
+go to  site -> live demos -> MedDetect -> Download test data -> Launch live demo
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
